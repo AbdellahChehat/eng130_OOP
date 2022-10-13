@@ -19,7 +19,10 @@
 
 ## Functionality of each pillar
 
-1. Abstraction.
+1. Abstraction. = 
+2. Encapsulation. =
+3. Inheritance. = 
+4. Polymorphism. = 
 
 ### Methods/ Function
 ### Modules 
