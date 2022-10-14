@@ -17,6 +17,7 @@
 
 ![](/Users/faduma/Desktop/Screenshot 2022-10-13 at 15.21.02.png)
 
+![](/Users/faduma/PycharmProjects/eng130_OOP/images/Screenshot 2022-10-11 at 09.39.21.png)
 ## Functionality of each pillar
 
 1. Abstraction. =  A programmer hides all but the relevant data about an object in order to reduce complexity and increase efficiency.
