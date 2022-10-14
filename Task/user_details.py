@@ -34,6 +34,8 @@ def user_details():
     # return f'Your favourite hobby is {hobby.lower()}'
 
 user_details()
+print(user_details())
+
 
 
 

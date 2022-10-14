@@ -80,3 +80,8 @@ def add(v1,v2):
 print(add(2,2))
 
 ````
+
+- Step 1: Plan create animal.py as parent 
+- Step 2: Create reptile.py as a child to inherit - abstract etc.
+- Step 3: Snake.py & inherit from reptile 
+- step 4: python_snake.py 
