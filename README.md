@@ -19,10 +19,10 @@
 
 ## Functionality of each pillar
 
-1. Abstraction. = 
-2. Encapsulation. =
-3. Inheritance. = 
-4. Polymorphism. = 
+1. Abstraction. =  A programmer hides all but the relevant data about an object in order to reduce complexity and increase efficiency.
+2. Encapsulation. = The bundling of data, along with the methods that operate on that data, into a single unit.
+3. Inheritance. = When a class derives from another class. The child class will inherit all the public and protected properties and methods from the parent class. In addition, it can have its own properties and methods. An inherited class is defined by using the extends keyword.
+4. Polymorphism. = Describes situations in which something occurs in several different forms. In computer science, it describes the concept that you can access objects of different types through the same interface
 
 ### Methods/ Function
 ### Modules 
