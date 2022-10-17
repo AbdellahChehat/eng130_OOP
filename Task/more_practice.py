@@ -24,17 +24,30 @@
 # print(shopping_items())
 
 
-def password_length (password):
+# def password_length (password):
+#
+#
+#
+#     if len(password) < 5:
+#         return "Your Password is too short"
+#     elif len(password) > 20:
+#         return "Your password is too long"
+#     else:
+#         return "Your pass is an acceptable length"
+#
+# print(password_length("sdsdddas"))
+
+
+# create a function called max_profit(data):
+# Function should return a list of two ints containing the indicies
+# delimiting the range with the max profit
+
+def odd_numbers (a,b):
 
 
 
-    if len(password) < 5:
-        return "Your Password is too short"
-    elif len(password) > 20:
-        return "Your password is too long"
-    else:
-        return "Your pass is an acceptable length"
+    for i in range(a,b) :
+        if i % 2 != 0:
+          print (i, end = " ")
 
-print(password_length("sdsdddas"))
-
-
+print(odd_numbers(0,100))
