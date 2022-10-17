@@ -3,16 +3,22 @@
 
 #print("Input ")
 
-def issuefind_largest(number):
+# def issuefind_largest(number): # Function defined
+#
+#     max_number = max(number) # Finds largest number in a list
+#
+#     return max_number # returns
+#
+# # number = [1,2,3,88,2,8,1] # Inputted list of numbers
+# print(issuefind_largest([1,2,3,88,2,8,1])) # Function being called and printed
+#
 
-    max_number = max(number)
+def user_name():
 
-    return max_number
+    user = input("Input name: ")
 
-number = [1,2,3,88,2,8,1]
-print(issuefind_largest(number))
+    return f'Hello your name is {user}'
 
-
-
+print(user_name())
 
 

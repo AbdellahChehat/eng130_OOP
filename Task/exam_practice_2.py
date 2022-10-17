@@ -7,12 +7,13 @@
 
 def is_twin(a,b):
 
+
     if (sorted(b) == sorted(a)):
         print("True")
     else:
         print("False")
 
-a = ""
-b = ""
+a = "Gsdsd"
+b = "sgsdd"
 is_twin(a,b)
 
